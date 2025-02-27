@@ -13,6 +13,7 @@
 ## Why Care
 - The industry has already mentioned an upper limit on model attrition: even with increased model parameters and better hypertuning
 - This may be God's Jacob Ladder boundary... symbolic reasoning could be our CS barrier. It may be unobtainable
+  - For all of the benefits true, general purpose symbolic reasoning could bring. I actually pray its unobtainable. This would make it easier for everyone.
 
 ## Gist
 - Studying CP approaches may be MORE important than ever before
